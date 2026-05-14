@@ -41,6 +41,37 @@ This balanced distribution helped the models learn more effectively during train
 
 ---
 
+## 📚 Libraries Used
+
+### Core Libraries
+- pandas – data manipulation and analysis  
+- numpy – numerical computations  
+- matplotlib – data visualization  
+- seaborn – statistical data visualization  
+
+### Scikit-learn Modules
+- train_test_split – splitting dataset into training and testing sets  
+- LabelEncoder – encoding categorical variables  
+- StandardScaler – feature scaling  
+- label_binarize – multi-class label processing  
+- SimpleImputer – handling missing values  
+
+### Evaluation Metrics
+- accuracy_score  
+- precision_score  
+- recall_score  
+- confusion_matrix  
+- roc_curve  
+- roc_auc_score  
+
+### Machine Learning Models
+- KNeighborsClassifier (KNN)  
+- DecisionTreeClassifier  
+- MLPClassifier (Neural Network)  
+- KMeans (Clustering)
+
+---
+
 # 🤖 Model Performance
 
 Several machine learning algorithms were tested during the project, and the **K-Nearest Neighbors (KNN)** model achieved the best overall performance. This indicates that customers within the same category tend to share very similar characteristics and feature patterns.
