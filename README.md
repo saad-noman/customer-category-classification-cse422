@@ -1,4 +1,4 @@
-# Customer Classification Category
+# Customer Category Classification
 
 ## 📌 Introduction
 
